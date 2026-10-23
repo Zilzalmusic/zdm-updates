@@ -1,1 +1,10 @@
-{"version":"1.2.1","url":"https://example.com","sig":"x"}
+{
+  "version": "1.2.2",
+  "url": "https://github.com/Zilzalmusic/zdm-updates/releases/download/v1.2.2/ZDM-Setup-1.2.2.exe",
+  "sha256": "A9CAAA6DF82582BED37E9C22ED0210362836CC5821556905B23269E0378C2BA7",
+  "sig": "8B35E4EEE6D9DD03BF707CBBDC93BD5EE061FD3AF553EF585683C06869040DE1DA819CB72BE97F747C50F95E770E2165DA807A277DF03D8850693719ED6285D1",
+  "notes": {
+    "ar": "",
+    "en": ""
+  }
+}
