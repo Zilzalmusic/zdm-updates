@@ -1,10 +1,10 @@
 {
-  "version": "1.2.6",
-  "url": "https://github.com/Zilzalmusic/zdm-updates/releases/download/v.1.2.6/ZDM-Setup-1.2.6.exe",
-  "sha256": "28FF9A3F53836C94A32F1473713BBF4A38CF861F29867945FDB5B116A9A94FAA",
-  "sig": "74D0223A1607A304FFB02223883745CA18D49AAA13875A59FE99F6FA423A64E429325B5A344366E6BA8CE9C3326DD2668FEB8BF724F37FC34A44A89074FD3969",
+  "version": "1.2.7",
+  "url": "https://github.com/Zilzalmusic/zdm-updates/releases/download/v.1.2.7/ZDM-Setup-1.2.7.exe",
+  "sha256": "8701EDB8764BB6E6B4B19B35C5D0DB6F0A60763B9FD4DF44AD971B8CE3B95279",
+  "sig": "02F20BFEE2398CC2A336E88499A6C52B6DF764B59C4B0CAE7BC8AF52B227BE4FCFD3C3D428BD7AE794E53319F11B996B1711DE4A348C848ADACF8A2082959666",
   "notes": {
-    "ar": "",
-    "en": ""
+    "ar": "تمت إضافة ميزة للتحكم في محولات الشبكة أثناء تنزيل الملفات.",
+    "en": "A feature has been added to control network adapters during file downloads."
   }
 }
